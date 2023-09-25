@@ -4,8 +4,6 @@
 
 </h1>
 
-
-
 <p align=center>
 This is a submission for GameJamQuébec 2023, held at La Console.
 </p>
