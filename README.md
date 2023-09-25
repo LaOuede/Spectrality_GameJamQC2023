@@ -1,11 +1,8 @@
-<h1 align=center>
- 
- [GameJam de Québec 2023](https://www.gamejamdequebec.ca/)
-
-</h1>
+<h1 align=center>GameJam de Québec 2023</h1>
 
 <p align=center>
-This is a submission for GameJamQuébec 2023, held at La Console.
+
+ This is a submission for [GameJam de Québec 2023](https://www.gamejamdequebec.ca), held at La Console.
 </p>
 
 <h3 align="left">Creators :</h3>
