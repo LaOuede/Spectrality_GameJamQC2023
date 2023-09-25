@@ -22,6 +22,6 @@ This is a submission for GameJamQuébec 2023, held at La Console.
 
 <div align="center">
  
-  Go to [itch.io](https://itch.io/jam/game-jam-de-quebec-2023/rate/2279658) to try the game ! 👈
+  👉 Go to [itch.io](https://itch.io/jam/game-jam-de-quebec-2023/rate/2279658) to try the game ! 👈
 </div>
 
