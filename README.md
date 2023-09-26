@@ -17,7 +17,7 @@
 
 <p align="center">
  
-  <img width="350" alt="Screen Shot 2023-06-27 at 8 03 37 AM" src="https://github.com/LaOuede/Spectrality_GameJamQC2023/assets/114024436/486fae17-a606-49a8-aeb9-8febd1762cb0)">
+  <img width="350" alt="Spectrality" src="https://github.com/LaOuede/Spectrality_GameJamQC2023/blob/main/Spectrality.png">
  
 </p>
 
