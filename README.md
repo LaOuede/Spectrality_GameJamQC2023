@@ -7,8 +7,8 @@
 
 <h3 align="left">Creators :</h3>
 
-- Gwenola LeRoux	(Game & UI Design)
 - Jimmy Labrecque	(Game & 3D Design)
+- Gwenola LeRoux	(Game & UI Design)
 - Loïc Lord	(Game & Piece Design)
 - Yakary Cyr-Roy	(Game & Sound Design)
 
